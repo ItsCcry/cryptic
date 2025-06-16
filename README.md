@@ -26,7 +26,7 @@ cp .env.example .env
 ```dotenv
 DISCORD_TOKEN=dein_discord_bot_token  
 APPLICATION_ID=deine_application_id  
-GUILD_ID=deine_guild_id          # Optional: nur für schnelle Guild-Registrierung  
+GUILD_ID=deine_guild_id           
 BOT_PREFIX=!                     # Nur falls du Legacy-Commands nutzen willst  
 UPDATE_INTERVAL=5                # Sek. zwischen Embed-Updates  
 REQUEST_DELAY=1.0                # Sek. Pause zwischen einzelnen Batch-Anfragen  
