@@ -1,0 +1,12 @@
+{
+  "stocks": [
+    { "symbol": "AAPL",   "exchange": "NASDAQ", "screener": "america" },
+    { "symbol": "MSFT",   "exchange": "NASDAQ", "screener": "america" }
+  ],
+  "cryptos": [
+    { "symbol": "BTCUSDT", "exchange": "BINANCE", "screener": "crypto" },
+    { "symbol": "RAIRUSD", "exchange": "CRYPTO",  "screener": "crypto" }
+  ],
+  "embed_channel": 123456789012345678,
+  "message_id":    null
+}
