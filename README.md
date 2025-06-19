@@ -58,7 +58,7 @@ cp config.json.example config.json
 ## Installation
 
 ```bash
-git clone https://github.com/DeinUser/cryptic.git
+git clone https://github.com/ItsCcry/cryptic.git
 cd cryptic
 python3 -m venv venv
 source venv/bin/activate       # macOS/Linux
